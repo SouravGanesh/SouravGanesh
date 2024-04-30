@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**SouravGanesh/SouravGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px"/>](https://www.linkedin.com/in/souravganesh/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
+
+I'm Sourav Ganesha, a Computer Science graduate student at Concordia University. My career pursuit is towards becoming a Data Engineer/ Analyst 💪.
+
+Below are the DATA related projects I have done! 😄
+
+---
+                                                                                                                                          
+### 📇 DA Projects
+
+- [Yet to link!]
+
+
+### DS Projects
+
+- [Yet to link!]                                                                                                      
+
+### 🚜 DE Projects
+                                                                                                                                          
+- [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)                                                                         
+                                                                                                
+---                                                                                                                        
+
+### 📝 Study Notes
+
+- [ 📔 SQL Homeworks ]
