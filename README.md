@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
 
-I'm Sourav Ganesha, a Computer Science graduate student at Concordia University. My career pursuit is towards becoming a Data Engineer/ Analyst 💪.
+I'm Sourav Ganesha, a Computer Science graduate student at Concordia University. My career pursuit is towards becoming a Data Engineer/ Analyst.
 
 Below are the DATA related projects I have done! 😄
 
