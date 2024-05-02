@@ -9,16 +9,7 @@ Below are the DATA related projects I have done! 😄
 
 ---
                                                                                                                                           
-### 📇 DA Projects
-
-- [Yet to link!]
-
-
-### DS Projects
-
-- [Yet to link!]                                                                                                      
-
-### 🚜 DE Projects
+### 📇 Data Projects
                                                                                                                                           
 - [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)                                                                         
                                                                                                 
