@@ -17,4 +17,4 @@ Below are the DATA related projects I have done! 😄
 
 ### 📝 Study Notes
 
-- [ 📔 SQL Homeworks ]
+- [ 📔 SQL ](https://github.com/SouravGanesh/SQL/)     
