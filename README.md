@@ -13,7 +13,8 @@ Below are the DATA related projects I have done! 😄
                                                                                                                                           
 - [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)
 - [ ⛅ Big Data Analytics in Weather Forecasting ](https://github.com/SouravGanesh/Big-Data-Analytics-in-Weather-Forecasting)                                                        
-- [ 🔎 Tableau Data Visualization ](https://github.com/SouravGanesh/Healthcare-Analytics-Tableau/)                                                                                     
+- [ 🔎 Tableau Data Visualization ](https://github.com/SouravGanesh/Healthcare-Analytics-Tableau/)
+- [ 👨🏻‍💻 Power BI - Realtime CPU/Memory Usage Visualization ](https://github.com/SouravGanesh/RealTime-CPU-Memory-Usage-Analysis/)                                                                                 
 ---                                                                                                                        
 
 ### 📝 Study Notes
