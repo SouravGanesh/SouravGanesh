@@ -11,7 +11,8 @@ Below are the DATA related projects I have done! 😄
                                                                                                                                           
 ### 📇 Data Projects
                                                                                                                                           
-- [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)                                                                         
+- [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)
+- [ ⛅ Big Data Analytics in Weather Forecasting ](https://github.com/SouravGanesh/Big-Data-Analytics-in-Weather-Forecasting)                                                        
 - [ 🔎 Tableau Data Visualization ](https://github.com/SouravGanesh/Healthcare-Analytics-Tableau/)                                                                                     
 ---                                                                                                                        
 
