@@ -12,7 +12,7 @@ Below are the DATA related projects I have done! 😄
 ### 📇 Data Projects
                                                                                                                                           
 - [ 🌐 Azure Data Processing ](https://github.com/SouravGanesh/Azure_DE_Proj)                                                                         
-                                                                                                
+- [ 🔎 Tableau Data Visualization ](https://github.com/SouravGanesh/Healthcare-Analytics-Tableau/)                                                                                     
 ---                                                                                                                        
 
 ### 📝 Study Notes
